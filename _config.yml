@@ -62,7 +62,7 @@ organization-logo-banner: https://lib.utk.edu/sites/default/files/styles/card_th
 # (this is done automatically by gh-pages build)
 #
 # dev mode turns on ability to change metadata
-development-mode: true
+development-mode: false
 # ignore stuff
 exclude: [docs/, Rakefile, README.md, LICENSE]
 # compress CSS output
